@@ -1,4 +1,4 @@
-# Periodic-Table
+# Periodic Table of the Elements
 A deck for Anki to learn the Periodic Table. Each Element has cards matching Element Name, Atomic Number, Atomic Mass, Group, Period, Classification and Electronic Configuration with each other.
 The deck can be found [here (AnkiWeb)](https://ankiweb.net/shared/info/590030838) or [here (GitHub)](https://github.com/SuhasK903/Anki/blob/main/Decks/Periodic-Table/Periodic%20Table%20of%20the%20Elements.apkg).
 
