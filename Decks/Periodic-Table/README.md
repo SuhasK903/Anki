@@ -7,3 +7,6 @@ Inspiration (and the base format) was taken from https://ankiweb.net/decks/share
 Media was taken from Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Elektronskal_1.svg to https://commons.wikimedia.org/wiki/File:Elektronskal_118.svg).
 
 Notes are also tagged if you wish to selectively learn some together. Synthetic and Synthetically Discovered tags were added as I felt too lazy too make them into proper cards, and as they didn't make that much sense to me anyways.
+
+Changelog:
+28/04/2025 - Created a subdeck for cards which are to be suspended (they do not have unique answers)
